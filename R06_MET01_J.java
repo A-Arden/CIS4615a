@@ -2,6 +2,7 @@
   Allison Arden
   5. Rule 06. Methods (MET)
 MET01-J. Never use assertions to validate method arguments 
+non-compliant code
 */
 
 
