@@ -2,6 +2,7 @@
   Allison Arden
   4. Rule 04. Characters and Strings (STR)
 STR03-J. Do not encode noncharacter data as a string
+non-compliant code
 */
 
 BigInteger x = new BigInteger("530500452766");
