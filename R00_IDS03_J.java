@@ -1,9 +1,3 @@
-
-//Correct the code as shown in the Compliant Solution below:
-
-
-
-
 if(loginSuccessful){
 logger.severe(”User login succeeded for: ” + sanitizeUser(username));
 }
